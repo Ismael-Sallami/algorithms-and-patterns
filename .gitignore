@@ -6,3 +6,6 @@ build/
 __pycache__/
 .venv/
 .DS_Store
+
+# Local build inputs: source clones and generators, not part of the published tree.
+.build/
