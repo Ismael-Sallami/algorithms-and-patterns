@@ -1,5 +1,9 @@
 # Algorithms and Patterns
 
+![C++](https://img.shields.io/badge/C%2B%2B-20-00599C)
+[![tests](https://img.shields.io/github/actions/workflow/status/Ismael-Sallami/algorithms-and-patterns/ci.yml?branch=main&logo=github&label=tests)](https://github.com/Ismael-Sallami/algorithms-and-patterns/actions/workflows/ci.yml)
+![license](https://img.shields.io/badge/license-MIT-4c1)
+
 A catalogue of 183 algorithm and data structure implementations, organised by
 pattern. It has two halves, kept apart on purpose.
 
@@ -17,6 +21,26 @@ implementation of, covering the standard interview taxonomy and the computer arc
 mechanisms I studied without writing code for. These have no prior commit history and their
 headers say so. Each one is self-contained and asserts its own behaviour, so it is verified
 by compiling and running it.
+
+## Verifying it
+
+The CI compiles and runs the 57 reference implementations on every push. They print
+nothing and assert their own behaviour, so a silent run is a pass and a broken invariant
+aborts the build:
+
+```bash
+bash scripts/verify.sh
+```
+
+```
+ok    reference/01-arrays-and-hashing/in-place-matrix-transforms/in_place_matrix_transforms.cpp
+...
+57 reference implementations compile and verify themselves
+```
+
+The files under `patterns/` are not compiled: they are fragments of larger programs, kept
+with a link to the commit they came from, and they do not stand alone. What can be checked
+about them is their provenance, and every header carries it.
 
 ## Counters
 

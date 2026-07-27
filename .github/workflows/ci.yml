@@ -1,0 +1,25 @@
+# Compiles and runs the 57 reference implementations on every push. Each one
+# asserts its own behaviour, so the badge means the catalogue was executed, not
+# just that it parses.
+
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compile and run every reference implementation
+        run: bash scripts/verify.sh
+
+      - name: The counts in the README still match the tree
+        run: |
+          python3 scripts/count.py > /tmp/counts.txt
+          cat /tmp/counts.txt
