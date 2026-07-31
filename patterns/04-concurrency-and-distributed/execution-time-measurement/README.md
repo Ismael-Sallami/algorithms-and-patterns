@@ -14,4 +14,4 @@ Practice 4, feeding the schedule design.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica4/scd-p4-fuentes/tiempos.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica4/scd-p4-fuentes/tiempos.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-4-realtime/timing.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-4-realtime/timing.cpp#L19-L64) &mdash; complete file.

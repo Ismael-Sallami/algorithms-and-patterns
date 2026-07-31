@@ -6,21 +6,21 @@ Trajectory-based and population-based methods applied to a real portfolio alloca
 
 | Pattern | Language | Source |
 | --- | --- | --- |
-| [Greedy constructive heuristic](greedy-constructive/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Local search, first improvement](local-search-first-improvement/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Local search, best improvement](local-search-best-improvement/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Multistart local search](multistart-local-search/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Basic multistart with a shared best](basic-multistart-search/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Iterated local search](iterated-local-search/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Iterated local search with simulated annealing as the local optimiser](iterated-local-search-with-annealing/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Hybrid of iterated local search, annealing and a CHC population](hybrid-ils-annealing-chc/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Simulated annealing](simulated-annealing/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Genetic algorithm, generational and steady-state](genetic-algorithm/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Memetic algorithm](memetic-algorithm/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Memetic algorithm refining only the best individuals](memetic-with-selective-refinement/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Differential evolution](differential-evolution/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Bounded-intensity local search](soft-local-search/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Gaussian mutation with boundary handling](gaussian-mutation/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
-| [Objective function with constraint repair](objective-function-and-constraint-repair/) | C++ | [`MH-Practices`](https://github.com/Ismael-Sallami/MH-Practices) |
+| [Greedy constructive heuristic](greedy-constructive/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Local search, first improvement](local-search-first-improvement/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Local search, best improvement](local-search-best-improvement/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Multistart local search](multistart-local-search/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Basic multistart with a shared best](basic-multistart-search/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Iterated local search](iterated-local-search/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Iterated local search with simulated annealing as the local optimiser](iterated-local-search-with-annealing/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Hybrid of iterated local search, annealing and a CHC population](hybrid-ils-annealing-chc/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Simulated annealing](simulated-annealing/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Genetic algorithm, generational and steady-state](genetic-algorithm/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Memetic algorithm](memetic-algorithm/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Memetic algorithm refining only the best individuals](memetic-with-selective-refinement/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Differential evolution](differential-evolution/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Bounded-intensity local search](soft-local-search/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Gaussian mutation with boundary handling](gaussian-mutation/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
+| [Objective function with constraint repair](objective-function-and-constraint-repair/) | C++ | [`metaheuristics`](https://github.com/Ismael-Sallami/metaheuristics) |
 
 [Back to the catalogue](../../README.md)

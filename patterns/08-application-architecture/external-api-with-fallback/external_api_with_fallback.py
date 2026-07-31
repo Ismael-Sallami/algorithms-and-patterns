@@ -1,7 +1,7 @@
 # Pattern: Querying an external price API with a fallback
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/personal-finance-manager -> app/services/prices.py (complete file)
-#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/prices.py#L1
+#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/prices.py#L1-L107
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

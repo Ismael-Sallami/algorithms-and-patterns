@@ -1,7 +1,7 @@
 // Pattern: Differential evolution
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/src/differential_evolution.cpp (complete file)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/differential_evolution.cpp#L1
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-2/src/differential_evolution.cpp (complete file)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-2/src/differential_evolution.cpp#L4-L91
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

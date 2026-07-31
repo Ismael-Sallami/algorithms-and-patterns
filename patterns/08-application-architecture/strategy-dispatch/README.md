@@ -14,4 +14,4 @@ Importing statements from several brokers into one account.
 
 ## Source
 
-[`personal-finance-manager/app/services/parsers/dispatch.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/dispatch.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/parsers/dispatch.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/dispatch.py#L1-L29) &mdash; complete file.

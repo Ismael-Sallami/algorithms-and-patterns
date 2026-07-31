@@ -14,4 +14,4 @@ The Telegram bot's expense entry.
 
 ## Source
 
-[`personal-finance-manager/app/services/expenses_parse.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/expenses_parse.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/expenses_parse.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/expenses_parse.py#L1-L197) &mdash; complete file.

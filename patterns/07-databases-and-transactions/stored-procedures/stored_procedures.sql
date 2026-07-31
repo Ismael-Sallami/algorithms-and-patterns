@@ -1,7 +1,7 @@
 -- Pattern: Server-side procedures
 -- Author:  Ismael Sallami Moreno
--- Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/database/publicidad/procedures_publicidad.sql (complete file)
---          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/publicidad/procedures_publicidad.sql#L1
+-- Source:  Ismael-Sallami/oracle-dbms-project -> database/publicidad/procedures_publicidad.sql (complete file)
+--          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/publicidad/procedures_publicidad.sql#L1-L28
 -- Extract: verbatim, complete file.
 --          Not a standalone build. See the source repository for the
 --          full build context.

@@ -14,4 +14,4 @@ Practice 1, paired with the FIFO version.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica1/Primer-Ejercicio/prodcons-plantilla_LIFO.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica1/Primer-Ejercicio/prodcons-plantilla_LIFO.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-1-semaphores/producer-consumer/prodcons-lifo.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-1-semaphores/producer-consumer/prodcons-lifo.cpp#L8-L160) &mdash; complete file.

@@ -1,7 +1,7 @@
 // Pattern: Cigarette smokers problem with semaphores
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica1/Tercer-Ejercicio/fumadores.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica1/Tercer-Ejercicio/fumadores.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-1-semaphores/smokers/smokers.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-1-semaphores/smokers/smokers.cpp#L9-L126
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

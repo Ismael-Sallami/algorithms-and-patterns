@@ -14,4 +14,4 @@ The Subsample operation, and the icon generator built on it.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/imageop.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/imageop.cpp#L43) &mdash; lines 43-51, 54-68.
+[`image-adt/src/imageop.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/imageop.cpp#L43-L68) &mdash; lines 43-51, 54-68.

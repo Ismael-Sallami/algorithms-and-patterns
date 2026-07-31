@@ -1,7 +1,7 @@
 // Pattern: Dijkstra over a weighted grid with composite state
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> practica2/rescatador.cpp (lines 1444-1524)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L1444
+// Source:  Ismael-Sallami/rescue-agents -> src/rescatador.cpp (lines 1444-1524)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L1444-L1524
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

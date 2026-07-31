@@ -1,7 +1,7 @@
 // Pattern: Producer-consumer with a FIFO buffer and counting semaphores
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica1/Primer-Ejercicio/prodcons-plantilla_FIFO.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica1/Primer-Ejercicio/prodcons-plantilla_FIFO.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-1-semaphores/producer-consumer/prodcons-fifo.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-1-semaphores/producer-consumer/prodcons-fifo.cpp#L8-L169
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

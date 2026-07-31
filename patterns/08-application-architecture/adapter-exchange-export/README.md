@@ -14,4 +14,4 @@ Importing cryptocurrency exchange statements.
 
 ## Source
 
-[`personal-finance-manager/app/services/parsers/kraken.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/kraken.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/parsers/kraken.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/kraken.py#L1-L49) &mdash; complete file.

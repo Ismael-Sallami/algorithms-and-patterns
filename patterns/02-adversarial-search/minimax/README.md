@@ -14,4 +14,4 @@ Baseline for the Parchis agent, kept as the reference the pruned versions are ch
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L401) &mdash; lines 401-454.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L401-L454) &mdash; lines 401-454.

@@ -1,7 +1,7 @@
 // Pattern: Multistart local search
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/src/localsearch_multistart.cpp (complete file)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/localsearch_multistart.cpp#L1
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-2/src/localsearch_multistart.cpp (complete file)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-2/src/localsearch_multistart.cpp#L7-L100
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

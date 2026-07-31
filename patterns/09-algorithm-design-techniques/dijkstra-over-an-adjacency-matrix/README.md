@@ -14,4 +14,4 @@ Practical 3 of Algorithmics. An earlier draft of this same file was sitting in t
 
 ## Source
 
-[`src/02-greedy/sensor_network.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/sensor_network.cpp#L90) &mdash; lines 90-146.
+[`src/02-greedy/sensor_network.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/sensor_network.cpp#L90-L146) &mdash; lines 90-146.

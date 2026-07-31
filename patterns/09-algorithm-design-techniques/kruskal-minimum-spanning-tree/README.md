@@ -14,4 +14,4 @@ Practical 3 of Algorithmics. The program also writes the graph and the resulting
 
 ## Source
 
-[`src/02-greedy/street_paving.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/street_paving.cpp#L84) &mdash; lines 84-107.
+[`src/02-greedy/street_paving.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/street_paving.cpp#L84-L107) &mdash; lines 84-107.

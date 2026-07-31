@@ -1,7 +1,7 @@
 # Pattern: Profit and loss over a position
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/personal-finance-manager -> app/services/pnl.py (complete file)
-#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/pnl.py#L1
+#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/pnl.py#L1-L43
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

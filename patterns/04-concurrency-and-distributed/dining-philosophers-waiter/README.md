@@ -14,4 +14,4 @@ Practice 3.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica3/scd-p3-fuentes/filosofos-cam.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica3/scd-p3-fuentes/filosofos-cam.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-3-mpi/philosophers-waiter.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-3-mpi/philosophers-waiter.cpp#L21-L173) &mdash; complete file.

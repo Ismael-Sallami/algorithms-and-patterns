@@ -14,4 +14,4 @@ Price updates and maintenance tasks in the finance service.
 
 ## Source
 
-[`personal-finance-manager/app/scheduler.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/scheduler.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/scheduler.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/scheduler.py#L1-L83) &mdash; complete file.

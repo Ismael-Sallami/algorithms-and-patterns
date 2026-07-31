@@ -1,7 +1,7 @@
 // Pattern: Reading and writing PPM and PGM files
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Air-lines-Project -> rutas_aereas/src/imagenES.cpp (complete file)
-//          https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/src/imagenES.cpp#L1
+// Source:  Ismael-Sallami/airline-routes-adt -> src/imagenES.cpp (complete file)
+//          https://github.com/Ismael-Sallami/airline-routes-adt/blob/main/src/imagenES.cpp#L1-L160
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -14,4 +14,4 @@ The variant the agent actually plays with at higher depths.
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L692) &mdash; lines 692-757.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L692-L757) &mdash; lines 692-757.

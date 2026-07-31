@@ -14,4 +14,4 @@ Used by the whole-image transforms in this category.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/image.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/image.cpp#L205) &mdash; lines 205-227.
+[`image-adt/src/image.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/image.cpp#L208-L226) &mdash; lines 205-227.

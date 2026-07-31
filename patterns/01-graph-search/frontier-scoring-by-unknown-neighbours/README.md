@@ -14,4 +14,4 @@ The discovery phase of the auxiliary agent.
 
 ## Source
 
-[`Practica2_IA/practica2/auxiliar.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/auxiliar.cpp#L1534) &mdash; lines 1534-1553, 1556-1579.
+[`rescue-agents/src/auxiliar.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/auxiliar.cpp#L1534-L1579) &mdash; lines 1534-1553, 1556-1579.

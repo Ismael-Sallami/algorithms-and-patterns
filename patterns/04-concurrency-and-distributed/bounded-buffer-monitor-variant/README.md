@@ -14,4 +14,4 @@ Practice 3.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica3/scd-p3-fuentes/prodcons2.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica3/scd-p3-fuentes/prodcons2.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-3-mpi/producer-consumer-buffer.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-3-mpi/producer-consumer-buffer.cpp#L22-L176) &mdash; complete file.

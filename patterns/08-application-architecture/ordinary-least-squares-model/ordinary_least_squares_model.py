@@ -1,7 +1,7 @@
 # Pattern: Fitting and diagnosing a linear regression
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/ModeloEconometrico -> Trabajo/trabajo.py (complete file)
-#          https://github.com/Ismael-Sallami/ModeloEconometrico/blob/main/Trabajo/trabajo.py#L1
+# Source:  Ismael-Sallami/econometric-model -> src/model.py (complete file)
+#          https://github.com/Ismael-Sallami/econometric-model/blob/main/src/model.py#L2-L519
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

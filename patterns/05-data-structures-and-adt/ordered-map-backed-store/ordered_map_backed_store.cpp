@@ -1,7 +1,7 @@
 // Pattern: Associative store over an ordered map
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Air-lines-Project -> rutas_aereas/src/Almacen_Rutas.cpp (complete file)
-//          https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/src/Almacen_Rutas.cpp#L1
+// Source:  Ismael-Sallami/airline-routes-adt -> src/Almacen_Rutas.cpp (complete file)
+//          https://github.com/Ismael-Sallami/airline-routes-adt/blob/main/src/Almacen_Rutas.cpp#L3-L144
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

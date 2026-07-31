@@ -14,4 +14,4 @@ Practice 2, monitors with condition variables.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica2/escritores-lectores.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica2/escritores-lectores.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-2-monitors/readers-writers.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-2-monitors/readers-writers.cpp#L11-L122) &mdash; complete file.

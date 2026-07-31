@@ -1,7 +1,7 @@
 # Pattern: Greedy decoding of a sequence-to-sequence model
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/AA-practices -> project/Proyecto_Sallami_Rodriguez.ipynb (notebook cells defining decode_sequence)
-#          https://github.com/Ismael-Sallami/AA-practices/blob/main/project/Proyecto_Sallami_Rodriguez.ipynb
+# Source:  Ismael-Sallami/machine-learning-practices -> src/project-seq2seq-chatbot.ipynb (notebook cells defining decode_sequence)
+#          https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/project-seq2seq-chatbot.ipynb#L1
 # Extract: selected code cells, concatenated in notebook order; output and narrative cells removed.
 #          Not a standalone build. See the source repository for the
 #          full build context.

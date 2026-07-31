@@ -14,4 +14,4 @@ Level 4 of the auxiliary agent, which has a battery budget and has to interleave
 
 ## Source
 
-[`Practica2_IA/practica2/auxiliar.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/auxiliar.cpp#L1302) &mdash; lines 1302-1396.
+[`rescue-agents/src/auxiliar.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/auxiliar.cpp#L1302-L1396) &mdash; lines 1302-1396.

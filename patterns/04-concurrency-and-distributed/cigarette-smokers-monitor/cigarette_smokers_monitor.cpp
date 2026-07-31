@@ -1,7 +1,7 @@
 // Pattern: Cigarette smokers problem with a monitor
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica2/fumadores.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica2/fumadores.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-2-monitors/smokers.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-2-monitors/smokers.cpp#L9-L140
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

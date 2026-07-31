@@ -1,7 +1,7 @@
 // Pattern: Dining philosophers with a waiter
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica3/scd-p3-fuentes/filosofos-cam.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica3/scd-p3-fuentes/filosofos-cam.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-3-mpi/philosophers-waiter.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-3-mpi/philosophers-waiter.cpp#L21-L173
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -1,7 +1,7 @@
 // Pattern: Cyclic executive with a compressed frame schedule
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica4/scd-p4-fuentes/ejecutivo1-compr.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica4/scd-p4-fuentes/ejecutivo1-compr.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-4-realtime/cyclic-executive-1-checked.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-4-realtime/cyclic-executive-1-checked.cpp#L7-L76
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

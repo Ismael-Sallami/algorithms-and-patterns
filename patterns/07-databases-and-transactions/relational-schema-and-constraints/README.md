@@ -14,4 +14,4 @@ Practice 3: the database behind the application.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/database/00_init_tablas.sql`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/00_init_tablas.sql#L1) &mdash; complete file.
+[`oracle-dbms-project/database/00_init_tablas.sql`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/00_init_tablas.sql#L1-L225) &mdash; complete file.

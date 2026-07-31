@@ -1,7 +1,7 @@
 // Pattern: Shortest way out of a maze with a bound on the path
 // Author:  José Ángel Carretero Montes, Ismael Sallami Moreno, Fernando José Gracia Choin, Minerva Cebrián Marín, Jesús Rodríguez González
 // Source:  Ismael-Sallami/algorithm-design-techniques -> src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp (lines 61-108)
-//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp#L61
+//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp#L61-L108
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

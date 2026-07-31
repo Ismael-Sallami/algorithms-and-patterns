@@ -14,4 +14,4 @@ The icon generator built on the image ADT.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/icono.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/icono.cpp#L1) &mdash; complete file.
+[`image-adt/src/icono.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/icono.cpp#L11-L58) &mdash; complete file.

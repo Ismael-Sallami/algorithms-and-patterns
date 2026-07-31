@@ -14,4 +14,4 @@ Generating practice tests from plain text.
 
 ## Source
 
-[`md2html-testGenerator/md2html.py`](https://github.com/Ismael-Sallami/md2html-testGenerator/blob/main/src/md2html/core.py#L1) &mdash; complete file.
+[`md2html-testGenerator/src/md2html/core.py`](https://github.com/Ismael-Sallami/md2html-testGenerator/blob/main/src/md2html/core.py#L1-L228) &mdash; complete file.

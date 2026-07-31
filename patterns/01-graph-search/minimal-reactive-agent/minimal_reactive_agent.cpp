@@ -1,7 +1,7 @@
 // Pattern: Minimal reactive agent
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> IA_Practica2/Comportamientos_Jugador/excursionista.cpp (complete file)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/IA_Practica2/Comportamientos_Jugador/excursionista.cpp#L1
+// Source:  Ismael-Sallami/rescue-agents -> docs/earlier-iterations/excursionista.cpp (complete file)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/docs/earlier-iterations/excursionista.cpp#L1
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

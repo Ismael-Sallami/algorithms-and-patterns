@@ -1,7 +1,7 @@
 // Pattern: Composing the containers into an application
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Air-lines-Project -> rutas_aereas/src/ruta_aerea.cpp (complete file)
-//          https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/src/ruta_aerea.cpp#L1
+// Source:  Ismael-Sallami/airline-routes-adt -> src/ruta_aerea.cpp (complete file)
+//          https://github.com/Ismael-Sallami/airline-routes-adt/blob/main/src/ruta_aerea.cpp#L11-L224
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

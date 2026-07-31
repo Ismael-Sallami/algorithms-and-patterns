@@ -14,4 +14,4 @@ The Crop operation.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/imageop.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/imageop.cpp#L71) &mdash; lines 71-84.
+[`image-adt/src/imageop.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/imageop.cpp#L71-L84) &mdash; lines 71-84.

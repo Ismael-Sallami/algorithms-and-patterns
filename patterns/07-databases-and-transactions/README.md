@@ -6,9 +6,9 @@ Relational schema design, integrity enforced inside the database with triggers, 
 
 | Pattern | Language | Source |
 | --- | --- | --- |
-| [Relational schema with declarative constraints](relational-schema-and-constraints/) | SQL | [`DDSI`](https://github.com/Ismael-Sallami/DDSI) |
-| [Business rules enforced by triggers](trigger-based-integrity/) | SQL | [`DDSI`](https://github.com/Ismael-Sallami/DDSI) |
-| [Server-side procedures](stored-procedures/) | SQL | [`DDSI`](https://github.com/Ismael-Sallami/DDSI) |
-| [Multi-statement writes with commit and rollback](transactional-write-path/) | Python | [`DDSI`](https://github.com/Ismael-Sallami/DDSI) |
+| [Relational schema with declarative constraints](relational-schema-and-constraints/) | SQL | [`oracle-dbms-project`](https://github.com/Ismael-Sallami/oracle-dbms-project) |
+| [Business rules enforced by triggers](trigger-based-integrity/) | SQL | [`oracle-dbms-project`](https://github.com/Ismael-Sallami/oracle-dbms-project) |
+| [Server-side procedures](stored-procedures/) | SQL | [`oracle-dbms-project`](https://github.com/Ismael-Sallami/oracle-dbms-project) |
+| [Multi-statement writes with commit and rollback](transactional-write-path/) | Python | [`oracle-dbms-project`](https://github.com/Ismael-Sallami/oracle-dbms-project) |
 
 [Back to the catalogue](../../README.md)

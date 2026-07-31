@@ -1,7 +1,7 @@
 // Pattern: Readers-writers with a monitor and condition variables
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica2/escritores-lectores.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica2/escritores-lectores.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-2-monitors/readers-writers.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-2-monitors/readers-writers.cpp#L11-L122
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -14,4 +14,4 @@ Fourth iteration of the Parchis agent.
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L881) &mdash; lines 881-930.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L881-L930) &mdash; lines 881-930.

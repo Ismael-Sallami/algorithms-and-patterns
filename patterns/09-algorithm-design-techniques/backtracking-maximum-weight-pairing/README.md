@@ -14,4 +14,4 @@ Practical 4 of Algorithmics, deliberately the same statement as practical 3 so t
 
 ## Source
 
-[`src/03-backtracking-and-branch-and-bound/student_pairing.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/student_pairing.cpp#L34) &mdash; lines 34-61.
+[`src/03-backtracking-and-branch-and-bound/student_pairing.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/student_pairing.cpp#L34-L61) &mdash; lines 34-61.

@@ -14,4 +14,4 @@ Database backup in the finance service.
 
 ## Source
 
-[`personal-finance-manager/app/services/backup.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/backup.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/backup.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/backup.py#L1-L113) &mdash; complete file.

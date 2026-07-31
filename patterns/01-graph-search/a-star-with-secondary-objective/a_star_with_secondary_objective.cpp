@@ -1,7 +1,7 @@
 // Pattern: A* re-targeted at a resupply point when the primary goal is unreachable
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> practica2/auxiliar.cpp (lines 1302-1396)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/auxiliar.cpp#L1302
+// Source:  Ismael-Sallami/rescue-agents -> src/auxiliar.cpp (lines 1302-1396)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/auxiliar.cpp#L1302-L1396
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

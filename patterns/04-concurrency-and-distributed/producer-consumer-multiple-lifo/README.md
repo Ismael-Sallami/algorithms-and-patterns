@@ -14,4 +14,4 @@ Practice 1, second exercise.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica1/Segundo-Ejercicio/prodcons-multi-LIFO.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica1/Segundo-Ejercicio/prodcons-multi-LIFO.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-1-semaphores/producer-consumer-multi/prodcons-multi-lifo.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-1-semaphores/producer-consumer-multi/prodcons-multi-lifo.cpp#L8-L131) &mdash; complete file.

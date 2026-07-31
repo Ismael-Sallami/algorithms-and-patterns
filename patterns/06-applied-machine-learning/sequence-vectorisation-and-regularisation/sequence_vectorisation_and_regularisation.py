@@ -1,7 +1,7 @@
 # Pattern: One-hot sequence encoding and network regularisation
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/AA-practices -> practice-3/P3_SALLAMI_MORENO_ISMAEL.ipynb (notebook cells defining vectorizar_secuencias, construir_modelo_regularizado)
-#          https://github.com/Ismael-Sallami/AA-practices/blob/main/practice-3/P3_SALLAMI_MORENO_ISMAEL.ipynb
+# Source:  Ismael-Sallami/machine-learning-practices -> src/practice-3-deep-learning.ipynb (notebook cells defining vectorizar_secuencias, construir_modelo_regularizado)
+#          https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/practice-3-deep-learning.ipynb#L1
 # Extract: selected code cells, concatenated in notebook order; output and narrative cells removed.
 #          Not a standalone build. See the source repository for the
 #          full build context.

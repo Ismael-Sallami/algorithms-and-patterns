@@ -1,7 +1,7 @@
 // Pattern: Scoring frontier cells by surrounding unknown area
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> practica2/auxiliar.cpp (lines 1534-1553, 1556-1579)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/auxiliar.cpp#L1534
+// Source:  Ismael-Sallami/rescue-agents -> src/auxiliar.cpp (lines 1534-1553, 1556-1579)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/auxiliar.cpp#L1534-L1579
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -14,4 +14,4 @@ Portfolio allocation: choose the weight of each asset to maximise risk-adjusted 
 
 ## Source
 
-[`MH-Practices/practice-3/code/src/portfolio_problem.cpp`](https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/portfolio_problem.cpp#L1) &mdash; complete file.
+[`metaheuristics/src/practice-2/src/portfolio_problem.cpp`](https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-2/src/portfolio_problem.cpp#L5-L210) &mdash; complete file.

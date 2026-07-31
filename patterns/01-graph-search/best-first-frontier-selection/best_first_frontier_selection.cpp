@@ -1,7 +1,7 @@
 // Pattern: Best-first selection of the next cell to explore
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> practica2/rescatador.cpp (lines 1650-1673)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L1650
+// Source:  Ismael-Sallami/rescue-agents -> src/rescatador.cpp (lines 1650-1673)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L1650-L1673
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

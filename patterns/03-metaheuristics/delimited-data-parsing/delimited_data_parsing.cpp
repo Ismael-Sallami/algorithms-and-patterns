@@ -1,7 +1,7 @@
 // Pattern: Parsing delimited numeric series
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/src/csv_reader.cpp (complete file)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/csv_reader.cpp#L1
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-1/src/csv_reader.cpp (complete file)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-1/src/csv_reader.cpp#L11-L94
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

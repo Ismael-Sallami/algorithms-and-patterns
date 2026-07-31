@@ -1,7 +1,7 @@
 // Pattern: Aggregate type ordered by one field
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Air-lines-Project -> rutas_aereas/src/Pais.cpp (complete file)
-//          https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/src/Pais.cpp#L1
+// Source:  Ismael-Sallami/airline-routes-adt -> src/Pais.cpp (complete file)
+//          https://github.com/Ismael-Sallami/airline-routes-adt/blob/main/src/Pais.cpp#L2-L36
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

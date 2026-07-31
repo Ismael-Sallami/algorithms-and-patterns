@@ -1,7 +1,7 @@
 // Pattern: Repeated-run protocol with mean and standard deviation
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/main.cpp (lines 116-166, 169-194)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/main.cpp#L116
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-2/main.cpp (lines 116-166, 169-194)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-2/main.cpp#L111-L189
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

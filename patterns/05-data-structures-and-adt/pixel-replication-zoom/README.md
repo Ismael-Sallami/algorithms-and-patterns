@@ -14,4 +14,4 @@ The Zoom2X operation.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/imageop.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/imageop.cpp#L117) &mdash; lines 117-160.
+[`image-adt/src/imageop.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/imageop.cpp#L117-L160) &mdash; lines 117-160.

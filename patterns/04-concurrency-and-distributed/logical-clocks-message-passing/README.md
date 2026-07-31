@@ -14,4 +14,4 @@ Practice 4, distributed synchronisation with MPI.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica4/scd-p4-fuentes/relojes.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica4/scd-p4-fuentes/relojes.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-4-realtime/clocks.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-4-realtime/clocks.cpp#L19-L53) &mdash; complete file.

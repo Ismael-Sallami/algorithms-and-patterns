@@ -1,7 +1,7 @@
 // Pattern: Window mean and subsampling
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej01_imagenes/estudiante/src/imageop.cpp (lines 43-51, 54-68)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/imageop.cpp#L43
+// Source:  Ismael-Sallami/image-adt -> src/imageop.cpp (lines 43-51, 54-68)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/src/imageop.cpp#L43-L68
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

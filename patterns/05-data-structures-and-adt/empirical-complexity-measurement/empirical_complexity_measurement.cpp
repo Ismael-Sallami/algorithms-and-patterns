@@ -1,7 +1,7 @@
 // Pattern: Measuring an algorithm's cost empirically
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej05_eficiencia/barajar_puntos_1_5.cpp (complete file)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej05_eficiencia/barajar_puntos_1_5.cpp#L1
+// Source:  Ismael-Sallami/image-adt -> src/efficiency-study/barajar_puntos_1_5.cpp (complete file)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/src/efficiency-study/barajar_puntos_1_5.cpp#L12-L69
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

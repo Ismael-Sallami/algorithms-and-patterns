@@ -1,7 +1,7 @@
 // Pattern: Floyd with a predecessor matrix, so the route can be read back
 // Author:  José Ángel Carretero Montes, Ismael Sallami Moreno, Fernando José Gracia Choin, Minerva Cebrián Marín, Jesús Rodríguez González
 // Source:  Ismael-Sallami/algorithm-design-techniques -> src/04-dynamic-programming/flight_times.cpp (lines 8-28)
-//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/flight_times.cpp#L8
+//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/flight_times.cpp#L8-L28
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

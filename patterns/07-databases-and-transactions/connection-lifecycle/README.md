@@ -14,4 +14,4 @@ Practice 3: shared by every module.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/src/db_connection.py`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/src/db_connection.py#L1) &mdash; complete file.
+[`oracle-dbms-project/src/db_connection.py`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/src/db_connection.py#L1) &mdash; complete file.

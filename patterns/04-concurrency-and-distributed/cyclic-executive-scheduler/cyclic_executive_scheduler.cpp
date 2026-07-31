@@ -1,7 +1,7 @@
 // Pattern: Cyclic executive for periodic real-time tasks
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica4/scd-p4-fuentes/ejecutivo2.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica4/scd-p4-fuentes/ejecutivo2.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-4-realtime/cyclic-executive-2.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-4-realtime/cyclic-executive-2.cpp#L35-L115
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

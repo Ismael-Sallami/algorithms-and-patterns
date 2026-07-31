@@ -1,7 +1,7 @@
 // Pattern: Dijkstra over an adjacency matrix of sensor links
 // Author:  José Ángel Carretero Montes, Ismael Sallami Moreno, Fernando José Gracia Choin, Minerva Cebrián Marín, Jesús Rodríguez González
 // Source:  Ismael-Sallami/algorithm-design-techniques -> src/02-greedy/sensor_network.cpp (lines 90-146)
-//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/sensor_network.cpp#L90
+//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/sensor_network.cpp#L90-L146
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

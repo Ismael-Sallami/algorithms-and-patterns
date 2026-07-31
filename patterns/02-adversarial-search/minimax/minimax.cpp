@@ -1,7 +1,7 @@
 // Pattern: Minimax over a game tree
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Parcherckers -> src/AIPlayer.cpp (lines 401-454)
-//          https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L401
+// Source:  Ismael-Sallami/parchis-ai -> src/AIPlayer.cpp (lines 401-454)
+//          https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L401-L454
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

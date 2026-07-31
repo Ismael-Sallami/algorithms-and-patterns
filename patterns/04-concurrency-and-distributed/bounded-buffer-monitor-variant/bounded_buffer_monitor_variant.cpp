@@ -1,7 +1,7 @@
 // Pattern: Bounded buffer monitor with separate full and empty conditions
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica3/scd-p3-fuentes/prodcons2.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica3/scd-p3-fuentes/prodcons2.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-3-mpi/producer-consumer-buffer.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-3-mpi/producer-consumer-buffer.cpp#L22-L176
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

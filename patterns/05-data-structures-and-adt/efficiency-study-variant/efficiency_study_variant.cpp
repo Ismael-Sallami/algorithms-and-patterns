@@ -1,7 +1,7 @@
 // Pattern: Second efficiency study over the same operation
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej05_eficiencia/barajar_punto_6.cpp (complete file)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej05_eficiencia/barajar_punto_6.cpp#L1
+// Source:  Ismael-Sallami/image-adt -> src/barajar.cpp (complete file)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/src/barajar.cpp#L12-L66
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

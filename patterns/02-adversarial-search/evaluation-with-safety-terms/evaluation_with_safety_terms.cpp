@@ -1,7 +1,7 @@
 // Pattern: Evaluation with piece safety and capture terms
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Parcherckers -> src/AIPlayer.cpp (lines 621-684)
-//          https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L621
+// Source:  Ismael-Sallami/parchis-ai -> src/AIPlayer.cpp (lines 621-684)
+//          https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L621-L684
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

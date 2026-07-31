@@ -1,7 +1,7 @@
 -- Pattern: Business rules enforced by triggers
 -- Author:  Ismael Sallami Moreno
--- Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/database/publicidad/triggers_publicidad.sql (complete file)
---          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/publicidad/triggers_publicidad.sql#L1
+-- Source:  Ismael-Sallami/oracle-dbms-project -> database/publicidad/triggers_publicidad.sql (complete file)
+--          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/publicidad/triggers_publicidad.sql#L1-L81
 -- Extract: verbatim, complete file.
 --          Not a standalone build. See the source repository for the
 --          full build context.

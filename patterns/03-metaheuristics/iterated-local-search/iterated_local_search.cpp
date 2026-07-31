@@ -1,7 +1,7 @@
 // Pattern: Iterated local search
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/src/ils.cpp (complete file)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/ils.cpp#L1
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-3/src/ils.cpp (complete file)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-3/src/ils.cpp#L7-L72
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

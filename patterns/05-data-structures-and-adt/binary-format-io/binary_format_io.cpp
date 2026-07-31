@@ -1,7 +1,7 @@
 // Pattern: Reading and writing a binary PGM file
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej01_imagenes/estudiante/src/imageIO.cpp (complete file)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/imageIO.cpp#L1
+// Source:  Ismael-Sallami/image-adt -> src/imageIO.cpp (complete file)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/src/imageIO.cpp#L1-L112
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -14,4 +14,4 @@ Regression suite for the metaheuristics framework.
 
 ## Source
 
-[`MH-Practices/practice-1/tests/test.cpp`](https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-1/tests/test.cpp#L1) &mdash; complete file.
+[`metaheuristics/src/practice-1/tests/test.cpp`](https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-1/tests/test.cpp#L1-L731) &mdash; complete file.

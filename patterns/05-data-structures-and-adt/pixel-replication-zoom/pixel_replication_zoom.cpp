@@ -1,7 +1,7 @@
 // Pattern: Zoom by pixel replication and interpolation
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej01_imagenes/estudiante/src/imageop.cpp (lines 117-160)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/imageop.cpp#L117
+// Source:  Ismael-Sallami/image-adt -> src/imageop.cpp (lines 117-160)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/src/imageop.cpp#L117-L160
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

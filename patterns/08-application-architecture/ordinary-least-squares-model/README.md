@@ -14,7 +14,7 @@ Econometrics coursework: a regression model on real economic series.
 
 ## Source
 
-[`ModeloEconometrico/Trabajo/trabajo.py`](https://github.com/Ismael-Sallami/ModeloEconometrico/blob/main/Trabajo/trabajo.py#L1) &mdash; complete file.
+[`econometric-model/src/model.py`](https://github.com/Ismael-Sallami/econometric-model/blob/main/src/model.py#L2-L519) &mdash; complete file.
 
 ## Note
 

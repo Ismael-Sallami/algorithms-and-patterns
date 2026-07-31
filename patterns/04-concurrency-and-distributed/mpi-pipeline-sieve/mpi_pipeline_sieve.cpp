@@ -1,7 +1,7 @@
 // Pattern: Sieve of Eratosthenes as an MPI process pipeline
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Extra-MPI-Criba/criba.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Extra-MPI-Criba/criba.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/extra-mpi-sieve/notes.txt (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/extra-mpi-sieve/notes.txt#L12-L80
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

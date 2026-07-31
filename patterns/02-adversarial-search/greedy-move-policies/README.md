@@ -14,4 +14,4 @@ Baseline opponents in the agent tournament.
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L156) &mdash; lines 156-228, 260-298, 300-337.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L156) &mdash; lines 156-228, 260-298, 300-337.

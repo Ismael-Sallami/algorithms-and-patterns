@@ -1,7 +1,7 @@
 // Pattern: Projecting a local sensor reading onto a global map
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> practica2/auxiliar.cpp (lines 378-401, 403-472)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/auxiliar.cpp#L378
+// Source:  Ismael-Sallami/rescue-agents -> src/auxiliar.cpp (lines 378-401, 403-472)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/auxiliar.cpp#L378-L472
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

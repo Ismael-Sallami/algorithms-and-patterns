@@ -1,7 +1,7 @@
 // Pattern: Composing transforms into a pipeline
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej01_imagenes/estudiante/src/icono.cpp (complete file)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/icono.cpp#L1
+// Source:  Ismael-Sallami/image-adt -> src/icono.cpp (complete file)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/src/icono.cpp#L11-L58
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

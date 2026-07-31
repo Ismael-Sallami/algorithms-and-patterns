@@ -14,4 +14,4 @@ The dashboard and the monthly reports.
 
 ## Source
 
-[`personal-finance-manager/app/services/aggregation.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/aggregation.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/aggregation.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/aggregation.py#L1-L292) &mdash; complete file.

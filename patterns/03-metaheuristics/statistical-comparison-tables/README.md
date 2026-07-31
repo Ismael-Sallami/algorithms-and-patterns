@@ -14,4 +14,4 @@ Producing the results section of the practical reports.
 
 ## Source
 
-[`MH-Practices/practice-3/EXTRA/generar_tablas_comparativas.py`](https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/EXTRA/generar_tablas_comparativas.py#L1) &mdash; complete file.
+[`metaheuristics/src/practice-3/extra/generar_tablas_comparativas.py`](https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-3/extra/generar_tablas_comparativas.py#L2-L168) &mdash; complete file.

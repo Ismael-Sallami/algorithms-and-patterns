@@ -14,7 +14,7 @@ Practice 3: neural networks, text classification.
 
 ## Source
 
-[`AA-practices/practice-3/P3_SALLAMI_MORENO_ISMAEL.ipynb`](https://github.com/Ismael-Sallami/AA-practices/blob/main/practice-3/P3_SALLAMI_MORENO_ISMAEL.ipynb) &mdash; notebook cells defining `vectorizar_secuencias`, `construir_modelo_regularizado`.
+[`machine-learning-practices/src/practice-3-deep-learning.ipynb`](https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/practice-3-deep-learning.ipynb#L1) &mdash; notebook cells defining `vectorizar_secuencias`, `construir_modelo_regularizado`.
 
 ## Note
 

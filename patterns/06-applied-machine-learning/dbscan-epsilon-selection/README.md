@@ -14,7 +14,7 @@ Practice 2: unsupervised learning.
 
 ## Source
 
-[`AA-practices/practice-2/P2_Sallami_Moreno_Ismael.ipynb`](https://github.com/Ismael-Sallami/AA-practices/blob/main/practice-2/P2_Sallami_Moreno_Ismael.ipynb) &mdash; notebook cells defining `calcular_epsilon_optimo`, `justificar_epsilon_por_silueta`.
+[`machine-learning-practices/src/practice-2-unsupervised-learning.ipynb`](https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/practice-2-unsupervised-learning.ipynb#L1) &mdash; notebook cells defining `calcular_epsilon_optimo`, `justificar_epsilon_por_silueta`.
 
 ## Note
 

@@ -14,4 +14,4 @@ Practice 1, third exercise.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica1/Tercer-Ejercicio/fumadores.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica1/Tercer-Ejercicio/fumadores.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-1-semaphores/smokers/smokers.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-1-semaphores/smokers/smokers.cpp#L9-L126) &mdash; complete file.

@@ -14,4 +14,4 @@ The Telegram interface to the finance service.
 
 ## Source
 
-[`personal-finance-manager/app/services/bot.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/bot.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/bot.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/bot.py#L1-L578) &mdash; complete file.

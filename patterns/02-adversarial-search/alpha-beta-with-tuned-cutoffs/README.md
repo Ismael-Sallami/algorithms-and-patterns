@@ -14,4 +14,4 @@ Later configuration of the Parchis agent.
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L1354) &mdash; lines 1354-1425.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L1354-L1425) &mdash; lines 1354-1425.

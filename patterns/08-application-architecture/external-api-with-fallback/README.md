@@ -14,4 +14,4 @@ Portfolio valuation in the finance service.
 
 ## Source
 
-[`personal-finance-manager/app/services/prices.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/prices.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/prices.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/prices.py#L1-L107) &mdash; complete file.

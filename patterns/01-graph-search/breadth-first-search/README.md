@@ -14,4 +14,4 @@ Level 1 of the rescuer agent: plan a route to a seen but not yet reached cell, o
 
 ## Source
 
-[`Practica2_IA/practica2/rescatador.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L1222) &mdash; lines 1222-1302.
+[`rescue-agents/src/rescatador.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L1222-L1302) &mdash; lines 1222-1302.

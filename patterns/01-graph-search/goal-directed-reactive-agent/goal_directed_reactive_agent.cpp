@@ -1,7 +1,7 @@
 // Pattern: Reactive agent driven by a target predicate
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> IA_Practica2/Comportamientos_Jugador/vandalo.cpp (complete file)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/IA_Practica2/Comportamientos_Jugador/vandalo.cpp#L1
+// Source:  Ismael-Sallami/rescue-agents -> docs/earlier-iterations/vandalo.cpp (complete file)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/docs/earlier-iterations/vandalo.cpp#L1
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

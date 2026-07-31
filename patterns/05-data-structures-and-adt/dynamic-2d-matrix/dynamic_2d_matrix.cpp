@@ -1,7 +1,7 @@
 // Pattern: Dynamic two-dimensional matrix with manual memory
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej01_imagenes/estudiante/src/image.cpp (lines 37-55, 59-65, 98-105)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/image.cpp#L37
+// Source:  Ismael-Sallami/image-adt -> src/image.cpp (lines 37-55, 59-65, 98-105)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/src/image.cpp#L37
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

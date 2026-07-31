@@ -14,4 +14,4 @@ Instrument identification when importing statements.
 
 ## Source
 
-[`personal-finance-manager/app/services/symbol_lookup.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/symbol_lookup.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/symbol_lookup.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/symbol_lookup.py#L1-L134) &mdash; complete file.

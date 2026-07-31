@@ -14,4 +14,4 @@ Practical 5 of Algorithmics.
 
 ## Source
 
-[`src/04-dynamic-programming/gold_grid.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/gold_grid.cpp#L20) &mdash; lines 20-59.
+[`src/04-dynamic-programming/gold_grid.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/gold_grid.cpp#L20-L59) &mdash; lines 20-59.

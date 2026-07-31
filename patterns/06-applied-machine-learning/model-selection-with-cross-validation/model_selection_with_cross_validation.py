@@ -1,7 +1,7 @@
 # Pattern: Comparing classifiers under cross-validation
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/AA-practices -> practice-1/P1_Ismael_Sallami_Moreno.ipynb (notebook cells defining entrenar_y_evaluar)
-#          https://github.com/Ismael-Sallami/AA-practices/blob/main/practice-1/P1_Ismael_Sallami_Moreno.ipynb
+# Source:  Ismael-Sallami/machine-learning-practices -> src/practice-1-supervised-learning.ipynb (notebook cells defining entrenar_y_evaluar)
+#          https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/practice-1-supervised-learning.ipynb#L1
 # Extract: selected code cells, concatenated in notebook order; output and narrative cells removed.
 #          Not a standalone build. See the source repository for the
 #          full build context.

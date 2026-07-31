@@ -14,4 +14,4 @@ Efficiency exercise, second part.
 
 ## Source
 
-[`TDA-Imagen/ej05_eficiencia/barajar_punto_6.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej05_eficiencia/barajar_punto_6.cpp#L1) &mdash; complete file.
+[`image-adt/src/barajar.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/barajar.cpp#L12-L66) &mdash; complete file.

@@ -14,4 +14,4 @@ The Image ADT, which is passed and returned by value throughout.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/image.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/image.cpp#L75) &mdash; lines 75-81, 144-147, 151-153, 157-163.
+[`image-adt/src/image.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/image.cpp#L75) &mdash; lines 75-81, 144-147, 151-153, 157-163.

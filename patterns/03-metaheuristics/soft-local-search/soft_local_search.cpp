@@ -1,7 +1,7 @@
 // Pattern: Bounded-intensity local search
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/src/soft_local_search.cpp (complete file)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/soft_local_search.cpp#L1
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-2/src/soft_local_search.cpp (complete file)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-2/src/soft_local_search.cpp#L7-L112
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

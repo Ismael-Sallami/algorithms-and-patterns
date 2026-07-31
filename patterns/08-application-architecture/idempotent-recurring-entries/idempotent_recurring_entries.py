@@ -1,7 +1,7 @@
 # Pattern: Generating recurring entries idempotently
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/personal-finance-manager -> app/services/contributions.py (complete file)
-#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/contributions.py#L1
+#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/contributions.py#L1-L73
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

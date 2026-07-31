@@ -14,4 +14,4 @@ Practical 5 of Algorithmics, the dynamic programming one.
 
 ## Source
 
-[`src/04-dynamic-programming/flight_times.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/flight_times.cpp#L8) &mdash; lines 8-28.
+[`src/04-dynamic-programming/flight_times.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/flight_times.cpp#L8-L28) &mdash; lines 8-28.

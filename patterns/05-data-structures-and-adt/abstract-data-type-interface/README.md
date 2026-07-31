@@ -14,4 +14,4 @@ The contract for every operation catalogued from this repository.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/include/image.h`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/include/image.h#L1) &mdash; complete file.
+[`image-adt/include/image.h`](https://github.com/Ismael-Sallami/image-adt/blob/main/include/image.h#L1-L317) &mdash; complete file.

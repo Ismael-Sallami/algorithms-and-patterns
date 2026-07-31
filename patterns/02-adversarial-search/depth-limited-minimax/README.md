@@ -14,4 +14,4 @@ Used when the engine enforces a per-move time limit.
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L458) &mdash; lines 458-521.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L458-L521) &mdash; lines 458-521.

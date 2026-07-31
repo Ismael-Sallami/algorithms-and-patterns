@@ -1,7 +1,7 @@
 // Pattern: Signal-and-urgent monitor semantics
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica3/scd-p3-fuentes/prodcons2-mu.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica3/scd-p3-fuentes/prodcons2-mu.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-3-mpi/producer-consumer-multi.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-3-mpi/producer-consumer-multi.cpp#L22-L207
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

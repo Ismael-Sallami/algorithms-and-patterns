@@ -1,7 +1,7 @@
 // Pattern: Greedy maximum-weight pairing, and where it settles too early
 // Author:  José Ángel Carretero Montes, Ismael Sallami Moreno, Fernando José Gracia Choin, Minerva Cebrián Marín, Jesús Rodríguez González
 // Source:  Ismael-Sallami/algorithm-design-techniques -> src/02-greedy/student_pairing.cpp (lines 17-46)
-//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/student_pairing.cpp#L17
+//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/student_pairing.cpp#L17-L46
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

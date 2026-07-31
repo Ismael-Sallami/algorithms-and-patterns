@@ -14,4 +14,4 @@ Practice 3: advertising module.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/database/publicidad/triggers_publicidad.sql`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/publicidad/triggers_publicidad.sql#L1) &mdash; complete file.
+[`oracle-dbms-project/database/publicidad/triggers_publicidad.sql`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/publicidad/triggers_publicidad.sql#L1-L81) &mdash; complete file.

@@ -14,4 +14,4 @@ Level 4 of the rescuer agent, planning long routes across a partly known map whe
 
 ## Source
 
-[`Practica2_IA/practica2/rescatador.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L1733) &mdash; lines 1733-1826.
+[`rescue-agents/src/rescatador.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L1733-L1826) &mdash; lines 1733-1826.

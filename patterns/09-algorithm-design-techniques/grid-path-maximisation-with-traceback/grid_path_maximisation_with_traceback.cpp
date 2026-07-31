@@ -1,7 +1,7 @@
 // Pattern: Most gold collectable crossing a grid, and the path that does it
 // Author:  José Ángel Carretero Montes, Ismael Sallami Moreno, Fernando José Gracia Choin, Minerva Cebrián Marín, Jesús Rodríguez González
 // Source:  Ismael-Sallami/algorithm-design-techniques -> src/04-dynamic-programming/gold_grid.cpp (lines 20-59)
-//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/gold_grid.cpp#L20
+//          https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/gold_grid.cpp#L20-L59
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

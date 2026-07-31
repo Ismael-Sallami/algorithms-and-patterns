@@ -1,7 +1,7 @@
 // Pattern: Alpha-beta with move ordering
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Parcherckers -> src/AIPlayer.cpp (lines 692-757)
-//          https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L692
+// Source:  Ismael-Sallami/parchis-ai -> src/AIPlayer.cpp (lines 692-757)
+//          https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L692-L757
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

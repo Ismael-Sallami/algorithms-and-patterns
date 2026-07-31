@@ -14,4 +14,4 @@ Practical 4 of Algorithmics, problem 5, sharing its maze class with problem 4.
 
 ## Source
 
-[`src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp#L61) &mdash; lines 61-108.
+[`src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp#L61-L108) &mdash; lines 61-108.

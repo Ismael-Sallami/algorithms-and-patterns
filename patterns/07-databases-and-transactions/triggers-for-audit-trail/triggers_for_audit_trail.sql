@@ -1,7 +1,7 @@
 -- Pattern: Triggers writing an audit trail
 -- Author:  Ismael Sallami Moreno
--- Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/database/mensajeria/triggers_mensajeria.sql (complete file)
---          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/mensajeria/triggers_mensajeria.sql#L1
+-- Source:  Ismael-Sallami/oracle-dbms-project -> database/mensajeria/triggers_mensajeria.sql (complete file)
+--          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/mensajeria/triggers_mensajeria.sql#L1-L25
 -- Extract: verbatim, complete file.
 --          Not a standalone build. See the source repository for the
 --          full build context.

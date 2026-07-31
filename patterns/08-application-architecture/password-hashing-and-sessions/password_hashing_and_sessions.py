@@ -1,7 +1,7 @@
 # Pattern: Password hashing and session tokens
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/personal-finance-manager -> app/security.py (complete file)
-#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/security.py#L1
+#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/security.py#L1-L76
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

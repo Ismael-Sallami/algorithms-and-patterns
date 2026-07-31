@@ -14,4 +14,4 @@ Practical 2 of Algorithmics. The iterative version produces the same table by ro
 
 ## Source
 
-[`src/01-divide-and-conquer/tournament-calendar/tournament_calendar_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/tournament-calendar/tournament_calendar_divide.cpp#L37) &mdash; lines 37-50.
+[`src/01-divide-and-conquer/tournament-calendar/tournament_calendar_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/tournament-calendar/tournament_calendar_divide.cpp#L37-L50) &mdash; lines 37-50.

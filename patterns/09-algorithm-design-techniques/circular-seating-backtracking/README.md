@@ -14,4 +14,4 @@ Practical 4 of Algorithmics, next to the greedy version of the same problem in p
 
 ## Source
 
-[`src/03-backtracking-and-branch-and-bound/circular_table.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/circular_table.cpp#L22) &mdash; lines 22-46.
+[`src/03-backtracking-and-branch-and-bound/circular_table.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/circular_table.cpp#L22-L46) &mdash; lines 22-46.

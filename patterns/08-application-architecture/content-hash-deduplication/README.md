@@ -14,4 +14,4 @@ Deduplicating photos transferred from a phone.
 
 ## Source
 
-[`media-manager/pythonFiles/comparar_contenido.py`](https://github.com/Ismael-Sallami/media-manager/blob/main/pythonFiles/comparar_contenido.py#L1) &mdash; complete file.
+[`media-manager/src/compare.py`](https://github.com/Ismael-Sallami/media-manager/blob/main/src/compare.py#L1-L117) &mdash; complete file.

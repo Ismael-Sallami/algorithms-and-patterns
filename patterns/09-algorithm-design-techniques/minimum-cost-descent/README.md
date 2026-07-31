@@ -14,4 +14,4 @@ Practical 5 of Algorithmics.
 
 ## Source
 
-[`src/04-dynamic-programming/mountain_descent.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/mountain_descent.cpp#L11) &mdash; lines 11-41.
+[`src/04-dynamic-programming/mountain_descent.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/mountain_descent.cpp#L11-L41) &mdash; lines 11-41.

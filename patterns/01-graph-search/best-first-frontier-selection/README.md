@@ -14,4 +14,4 @@ The discovery phase of the rescuer agent, which has to reveal the map before it 
 
 ## Source
 
-[`Practica2_IA/practica2/rescatador.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L1650) &mdash; lines 1650-1673.
+[`rescue-agents/src/rescatador.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L1650-L1673) &mdash; lines 1650-1673.

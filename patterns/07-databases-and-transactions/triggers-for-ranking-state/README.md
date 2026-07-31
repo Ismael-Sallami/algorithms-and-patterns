@@ -14,4 +14,4 @@ Practice 3: trends module.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/database/tendencias/triggers_tendencias.sql`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/tendencias/triggers_tendencias.sql#L1) &mdash; complete file.
+[`oracle-dbms-project/database/tendencias/triggers_tendencias.sql`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/tendencias/triggers_tendencias.sql#L1-L45) &mdash; complete file.

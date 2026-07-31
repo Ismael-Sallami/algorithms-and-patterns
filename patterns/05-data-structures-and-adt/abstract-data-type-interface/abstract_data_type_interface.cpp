@@ -1,7 +1,7 @@
 // Pattern: Designing the interface of an ADT
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/TDA-Imagen -> ej01_imagenes/estudiante/include/image.h (complete file)
-//          https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/include/image.h#L1
+// Source:  Ismael-Sallami/image-adt -> include/image.h (complete file)
+//          https://github.com/Ismael-Sallami/image-adt/blob/main/include/image.h#L1-L317
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -14,4 +14,4 @@ Successor generation for both the reactive layers and the search algorithms.
 
 ## Source
 
-[`Practica2_IA/practica2/rescatador.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L528) &mdash; lines 528-662, 683-692.
+[`rescue-agents/src/rescatador.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L528) &mdash; lines 528-662, 683-692.

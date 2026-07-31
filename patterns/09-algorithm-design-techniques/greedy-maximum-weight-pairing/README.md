@@ -14,4 +14,4 @@ Practical 3 of Algorithmics. The same statement comes back in practical 4 to be 
 
 ## Source
 
-[`src/02-greedy/student_pairing.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/student_pairing.cpp#L17) &mdash; lines 17-46.
+[`src/02-greedy/student_pairing.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/student_pairing.cpp#L17-L46) &mdash; lines 17-46.

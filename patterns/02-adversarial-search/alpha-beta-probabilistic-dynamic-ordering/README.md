@@ -14,4 +14,4 @@ The strongest configuration of the agent.
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L1213) &mdash; lines 1213-1277.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L1213-L1277) &mdash; lines 1213-1277.

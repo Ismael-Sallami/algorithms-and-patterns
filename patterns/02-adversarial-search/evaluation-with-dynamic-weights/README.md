@@ -14,4 +14,4 @@ Shared by every search variant through the Heuristic interface, which is what le
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L940) &mdash; lines 940-1007, 1009-1022, 1434-1463.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L940) &mdash; lines 940-1007, 1009-1022, 1434-1463.

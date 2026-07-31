@@ -1,7 +1,7 @@
 // Pattern: Compositing one image onto another through a mask
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Air-lines-Project -> rutas_aereas/src/imagen.cpp (lines 221-238, 240-247, 249-264)
-//          https://github.com/Ismael-Sallami/Air-lines-Project/blob/main/rutas_aereas/src/imagen.cpp#L221
+// Source:  Ismael-Sallami/airline-routes-adt -> src/imagen.cpp (lines 221-238, 240-247, 249-264)
+//          https://github.com/Ismael-Sallami/airline-routes-adt/blob/main/src/imagen.cpp#L221-L264
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

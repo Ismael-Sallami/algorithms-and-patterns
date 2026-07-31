@@ -14,4 +14,4 @@ Practical 4 of Algorithmics.
 
 ## Source
 
-[`src/03-backtracking-and-branch-and-bound/senku.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/senku.cpp#L23) &mdash; lines 23-64.
+[`src/03-backtracking-and-branch-and-bound/senku.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/senku.cpp#L23-L64) &mdash; lines 23-64.

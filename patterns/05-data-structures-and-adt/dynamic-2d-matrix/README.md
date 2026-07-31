@@ -14,4 +14,4 @@ The Image ADT, which every operation in this category is built on.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/image.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/image.cpp#L37) &mdash; lines 37-55, 59-65, 98-105.
+[`image-adt/src/image.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/image.cpp#L37) &mdash; lines 37-55, 59-65, 98-105.

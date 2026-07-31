@@ -1,7 +1,7 @@
 # Pattern: Adapter for a multi-section document
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/personal-finance-manager -> app/services/parsers/traderepublic.py (complete file)
-#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/traderepublic.py#L1
+#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/traderepublic.py#L1-L169
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

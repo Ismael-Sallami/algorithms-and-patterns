@@ -1,7 +1,7 @@
 // Pattern: Greedy and random move policies
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Parcherckers -> src/AIPlayer.cpp (lines 156-228, 260-298, 300-337)
-//          https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L156
+// Source:  Ismael-Sallami/parchis-ai -> src/AIPlayer.cpp (lines 156-228, 260-298, 300-337)
+//          https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L156
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

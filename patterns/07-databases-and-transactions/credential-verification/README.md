@@ -14,4 +14,4 @@ Practice 3: user management.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/src/usuarios/auth.py`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/src/usuarios/auth.py#L1) &mdash; complete file.
+[`oracle-dbms-project/src/usuarios/auth.py`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/src/usuarios/auth.py#L1-L26) &mdash; complete file.

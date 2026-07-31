@@ -14,4 +14,4 @@ Practical 2 of Algorithmics. The iterative version alongside it sorts both sides
 
 ## Source
 
-[`src/01-divide-and-conquer/nuts-and-bolts/nuts_and_bolts_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/nuts-and-bolts/nuts_and_bolts_divide.cpp#L22) &mdash; lines 22-47.
+[`src/01-divide-and-conquer/nuts-and-bolts/nuts_and_bolts_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/nuts-and-bolts/nuts_and_bolts_divide.cpp#L22-L47) &mdash; lines 22-47.

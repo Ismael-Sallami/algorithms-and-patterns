@@ -1,7 +1,7 @@
 # Pattern: Verifying credentials against stored hashes
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/src/usuarios/auth.py (complete file)
-#          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/src/usuarios/auth.py#L1
+# Source:  Ismael-Sallami/oracle-dbms-project -> src/usuarios/auth.py (complete file)
+#          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/src/usuarios/auth.py#L1-L26
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

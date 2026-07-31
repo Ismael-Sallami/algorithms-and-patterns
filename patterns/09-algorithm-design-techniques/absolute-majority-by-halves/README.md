@@ -14,4 +14,4 @@ Practical 2 of Algorithmics, alongside an iterative version and a hybrid that sw
 
 ## Source
 
-[`src/01-divide-and-conquer/absolute-majority/absolute_majority_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/absolute-majority/absolute_majority_divide.cpp#L18) &mdash; lines 18-55.
+[`src/01-divide-and-conquer/absolute-majority/absolute_majority_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/absolute-majority/absolute_majority_divide.cpp#L18-L55) &mdash; lines 18-55.

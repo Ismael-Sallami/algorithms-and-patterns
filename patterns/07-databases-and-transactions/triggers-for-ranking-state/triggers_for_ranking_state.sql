@@ -1,7 +1,7 @@
 -- Pattern: Triggers maintaining ranking state
 -- Author:  Ismael Sallami Moreno
--- Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/database/tendencias/triggers_tendencias.sql (complete file)
---          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/tendencias/triggers_tendencias.sql#L1
+-- Source:  Ismael-Sallami/oracle-dbms-project -> database/tendencias/triggers_tendencias.sql (complete file)
+--          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/tendencias/triggers_tendencias.sql#L1-L45
 -- Extract: verbatim, complete file.
 --          Not a standalone build. See the source repository for the
 --          full build context.

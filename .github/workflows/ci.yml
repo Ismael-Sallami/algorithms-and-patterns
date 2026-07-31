@@ -23,3 +23,8 @@ jobs:
       # README podia decir 183 con 198 carpetas en el arbol y seguia en verde.
       - name: The counts in the README still match the tree
         run: python3 scripts/check-counts.py
+
+      # Los enlaces de procedencia estuvieron rotos meses sin que nada avisara:
+      # ocho repositorios cambiaron de nombre y de estructura a la vez.
+      - name: Every provenance link still resolves
+        run: bash scripts/check-links.sh

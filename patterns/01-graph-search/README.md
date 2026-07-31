@@ -6,11 +6,11 @@ Shortest paths and reachability over a grid whose state is more than a coordinat
 
 | Pattern | Language | Source |
 | --- | --- | --- |
-| [Breadth-first search over a grid state space](breadth-first-search/) | C++ | [`Practica2_IA`](https://github.com/Ismael-Sallami/Practica2_IA) |
-| [Dijkstra over a weighted grid with composite state](dijkstra-on-a-grid/) | C++ | [`Practica2_IA`](https://github.com/Ismael-Sallami/Practica2_IA) |
-| [A* with a Manhattan-distance heuristic](a-star-manhattan/) | C++ | [`Practica2_IA`](https://github.com/Ismael-Sallami/Practica2_IA) |
-| [A* re-targeted at a resupply point when the primary goal is unreachable](a-star-with-secondary-objective/) | C++ | [`Practica2_IA`](https://github.com/Ismael-Sallami/Practica2_IA) |
-| [Best-first selection of the next cell to explore](best-first-frontier-selection/) | C++ | [`Practica2_IA`](https://github.com/Ismael-Sallami/Practica2_IA) |
-| [State transition function and edge cost model](state-transition-and-cost-model/) | C++ | [`Practica2_IA`](https://github.com/Ismael-Sallami/Practica2_IA) |
+| [Breadth-first search over a grid state space](breadth-first-search/) | C++ | [`rescue-agents`](https://github.com/Ismael-Sallami/rescue-agents) |
+| [Dijkstra over a weighted grid with composite state](dijkstra-on-a-grid/) | C++ | [`rescue-agents`](https://github.com/Ismael-Sallami/rescue-agents) |
+| [A* with a Manhattan-distance heuristic](a-star-manhattan/) | C++ | [`rescue-agents`](https://github.com/Ismael-Sallami/rescue-agents) |
+| [A* re-targeted at a resupply point when the primary goal is unreachable](a-star-with-secondary-objective/) | C++ | [`rescue-agents`](https://github.com/Ismael-Sallami/rescue-agents) |
+| [Best-first selection of the next cell to explore](best-first-frontier-selection/) | C++ | [`rescue-agents`](https://github.com/Ismael-Sallami/rescue-agents) |
+| [State transition function and edge cost model](state-transition-and-cost-model/) | C++ | [`rescue-agents`](https://github.com/Ismael-Sallami/rescue-agents) |
 
 [Back to the catalogue](../../README.md)

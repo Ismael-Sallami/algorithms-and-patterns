@@ -14,4 +14,4 @@ Extra exercise on message-passing decomposition with MPI.
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Extra-MPI-Criba/criba.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Extra-MPI-Criba/criba.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/extra-mpi-sieve/notes.txt`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/extra-mpi-sieve/notes.txt#L12-L80) &mdash; complete file.

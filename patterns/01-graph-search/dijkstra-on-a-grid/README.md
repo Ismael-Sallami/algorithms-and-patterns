@@ -14,4 +14,4 @@ Level 2 of the rescuer agent, where terrain cost is known and the goal is the ch
 
 ## Source
 
-[`Practica2_IA/practica2/rescatador.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L1444) &mdash; lines 1444-1524.
+[`rescue-agents/src/rescatador.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L1444-L1524) &mdash; lines 1444-1524.

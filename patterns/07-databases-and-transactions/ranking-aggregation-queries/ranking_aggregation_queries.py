@@ -1,7 +1,7 @@
 # Pattern: Aggregation and ranking queries
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/src/tendencias/functions.py (complete file)
-#          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/src/tendencias/functions.py#L1
+# Source:  Ismael-Sallami/oracle-dbms-project -> src/tendencias/functions.py (complete file)
+#          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/src/tendencias/functions.py#L2-L72
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

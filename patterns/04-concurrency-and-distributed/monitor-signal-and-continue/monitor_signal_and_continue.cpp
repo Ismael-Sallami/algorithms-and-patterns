@@ -1,7 +1,7 @@
 // Pattern: Signal-and-continue monitor semantics
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica3/scd-p3-fuentes/prodcons.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica3/scd-p3-fuentes/prodcons.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-3-mpi/producer-consumer.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-3-mpi/producer-consumer.cpp#L22-L140
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -1,14 +1,14 @@
 # Pattern: Deduplicating files by content hash
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/media-manager -> pythonFiles/comparar_contenido.py (complete file)
-#          https://github.com/Ismael-Sallami/media-manager/blob/main/pythonFiles/comparar_contenido.py#L1
+# Source:  Ismael-Sallami/media-manager -> src/compare.py (complete file)
+#          https://github.com/Ismael-Sallami/media-manager/blob/main/src/compare.py#L1-L117
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.
 
+import hashlib
 import os
 import sys
-import hashlib
 
 # ========================
 # FUNCIONES AUXILIARES
@@ -97,7 +97,8 @@ if nombres_1 & nombres_2:
 # DETECCIÓN DE ARCHIVOS DUPLICADOS AL 100%
 # ========================
 
-respuesta = input("\n¿Desea verificar duplicados reales por contenido (uso de hash, tarda bastante tiempo si son bastantes archivos) ? (s/n): ").strip().lower()
+respuesta = input("\n¿Desea verificar duplicados reales por contenido? "
+                  "(usa hash, tarda si son muchos archivos) (s/n): ").strip().lower()
 duplicados_reales = []
 if respuesta == 's':
     print("\n🔍 Verificando duplicados reales por contenido (hash)...")

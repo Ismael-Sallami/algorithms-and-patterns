@@ -1,7 +1,7 @@
 # Pattern: Multi-statement writes with commit and rollback
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/src/usuarios/functions.py (lines 8-49, 132-168)
-#          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/src/usuarios/functions.py#L8
+# Source:  Ismael-Sallami/oracle-dbms-project -> src/usuarios/functions.py (lines 8-49, 132-168)
+#          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/src/usuarios/functions.py#L8
 # Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 #          Not a standalone build. See the source repository for the
 #          full build context.

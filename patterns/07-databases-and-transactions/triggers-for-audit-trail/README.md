@@ -14,4 +14,4 @@ Practice 3: messaging module.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/database/mensajeria/triggers_mensajeria.sql`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/mensajeria/triggers_mensajeria.sql#L1) &mdash; complete file.
+[`oracle-dbms-project/database/mensajeria/triggers_mensajeria.sql`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/mensajeria/triggers_mensajeria.sql#L1-L25) &mdash; complete file.

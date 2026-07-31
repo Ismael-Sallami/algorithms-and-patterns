@@ -1,7 +1,7 @@
 -- Pattern: Triggers maintaining derived counters
 -- Author:  Ismael Sallami Moreno
--- Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/database/publicaciones/triggers_publicaciones.sql (complete file)
---          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/publicaciones/triggers_publicaciones.sql#L1
+-- Source:  Ismael-Sallami/oracle-dbms-project -> database/publicaciones/triggers_publicaciones.sql (complete file)
+--          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/publicaciones/triggers_publicaciones.sql#L2-L58
 -- Extract: verbatim, complete file.
 --          Not a standalone build. See the source repository for the
 --          full build context.

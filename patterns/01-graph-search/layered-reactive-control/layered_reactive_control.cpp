@@ -1,7 +1,7 @@
 // Pattern: Layered reactive control without a plan
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/Practica2_IA -> practica2/rescatador.cpp (lines 121-343)
-//          https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L121
+// Source:  Ismael-Sallami/rescue-agents -> src/rescatador.cpp (lines 121-343)
+//          https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L121-L343
 // Extract: verbatim block extract; surrounding file context and includes are in the source repository.
 //          Not a standalone build. See the source repository for the
 //          full build context.

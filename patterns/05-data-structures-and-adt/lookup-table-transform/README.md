@@ -14,4 +14,4 @@ Contrast stretching in the image ADT.
 
 ## Source
 
-[`TDA-Imagen/ej01_imagenes/estudiante/src/imageop.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej01_imagenes/estudiante/src/imageop.cpp#L24) &mdash; lines 24-40.
+[`image-adt/src/imageop.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/imageop.cpp#L24-L40) &mdash; lines 24-40.

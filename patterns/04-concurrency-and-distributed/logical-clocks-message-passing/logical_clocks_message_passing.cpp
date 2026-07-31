@@ -1,7 +1,7 @@
 // Pattern: Logical clocks over message passing
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica4/scd-p4-fuentes/relojes.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica4/scd-p4-fuentes/relojes.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-4-realtime/clocks.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-4-realtime/clocks.cpp#L19-L53
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

@@ -14,4 +14,4 @@ Practical 3 of Algorithmics, the problem where greedy is provably optimal, unlik
 
 ## Source
 
-[`src/02-greedy/bus_refuelling.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/bus_refuelling.cpp#L26) &mdash; lines 26-52.
+[`src/02-greedy/bus_refuelling.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/bus_refuelling.cpp#L26-L52) &mdash; lines 26-52.

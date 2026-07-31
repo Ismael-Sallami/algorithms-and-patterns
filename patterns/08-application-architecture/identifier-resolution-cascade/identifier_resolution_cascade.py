@@ -1,7 +1,7 @@
 # Pattern: Resolving an identifier through a cascade of sources
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/personal-finance-manager -> app/services/symbol_lookup.py (complete file)
-#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/symbol_lookup.py#L1
+#          https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/symbol_lookup.py#L1-L134
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

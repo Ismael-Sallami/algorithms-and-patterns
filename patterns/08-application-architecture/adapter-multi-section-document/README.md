@@ -14,4 +14,4 @@ Importing broker statements.
 
 ## Source
 
-[`personal-finance-manager/app/services/parsers/traderepublic.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/traderepublic.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/parsers/traderepublic.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/traderepublic.py#L1-L169) &mdash; complete file.

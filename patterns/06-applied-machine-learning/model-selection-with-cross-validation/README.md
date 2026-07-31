@@ -14,7 +14,7 @@ Practice 1: supervised classification, comparing k-NN, SVM, logistic regression 
 
 ## Source
 
-[`AA-practices/practice-1/P1_Ismael_Sallami_Moreno.ipynb`](https://github.com/Ismael-Sallami/AA-practices/blob/main/practice-1/P1_Ismael_Sallami_Moreno.ipynb) &mdash; notebook cells defining `entrenar_y_evaluar`.
+[`machine-learning-practices/src/practice-1-supervised-learning.ipynb`](https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/practice-1-supervised-learning.ipynb#L1) &mdash; notebook cells defining `entrenar_y_evaluar`.
 
 ## Note
 

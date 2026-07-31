@@ -14,4 +14,4 @@ Practice 3: publications module.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/database/publicaciones/triggers_publicaciones.sql`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/database/publicaciones/triggers_publicaciones.sql#L1) &mdash; complete file.
+[`oracle-dbms-project/database/publicaciones/triggers_publicaciones.sql`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/database/publicaciones/triggers_publicaciones.sql#L2-L58) &mdash; complete file.

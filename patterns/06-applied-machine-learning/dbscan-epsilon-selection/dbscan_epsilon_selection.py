@@ -1,7 +1,7 @@
 # Pattern: Choosing the DBSCAN neighbourhood radius from data
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/AA-practices -> practice-2/P2_Sallami_Moreno_Ismael.ipynb (notebook cells defining calcular_epsilon_optimo, justificar_epsilon_por_silueta)
-#          https://github.com/Ismael-Sallami/AA-practices/blob/main/practice-2/P2_Sallami_Moreno_Ismael.ipynb
+# Source:  Ismael-Sallami/machine-learning-practices -> src/practice-2-unsupervised-learning.ipynb (notebook cells defining calcular_epsilon_optimo, justificar_epsilon_por_silueta)
+#          https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/practice-2-unsupervised-learning.ipynb#L1
 # Extract: selected code cells, concatenated in notebook order; output and narrative cells removed.
 #          Not a standalone build. See the source repository for the
 #          full build context.

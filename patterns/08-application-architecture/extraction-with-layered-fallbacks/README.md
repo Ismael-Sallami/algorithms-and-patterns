@@ -14,4 +14,4 @@ Converting course material to Markdown.
 
 ## Source
 
-[`pdf-to-md/pdf_to_md.py`](https://github.com/Ismael-Sallami/pdf-to-md/blob/main/src/pdf_to_md.py#L1) &mdash; complete file.
+[`pdf-to-md/src/pdf_to_md.py`](https://github.com/Ismael-Sallami/pdf-to-md/blob/main/src/pdf_to_md.py#L2-L511) &mdash; complete file.

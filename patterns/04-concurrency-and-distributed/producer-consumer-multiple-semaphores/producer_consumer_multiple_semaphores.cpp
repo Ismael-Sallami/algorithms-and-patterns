@@ -1,7 +1,7 @@
 // Pattern: Several producers and several consumers over one buffer
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/SCD-Concurrency-MPI -> src/Practica1/Segundo-Ejercicio/prodcons-multi-FIFO.cpp (complete file)
-//          https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica1/Segundo-Ejercicio/prodcons-multi-FIFO.cpp#L1
+// Source:  Ismael-Sallami/concurrency-mpi -> src/practice-1-semaphores/producer-consumer-multi/prodcons-multi-fifo.cpp (complete file)
+//          https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-1-semaphores/producer-consumer-multi/prodcons-multi-fifo.cpp#L8-L131
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

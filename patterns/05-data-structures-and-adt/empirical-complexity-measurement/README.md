@@ -14,4 +14,4 @@ Efficiency study of the row permutation above.
 
 ## Source
 
-[`TDA-Imagen/ej05_eficiencia/barajar_puntos_1_5.cpp`](https://github.com/Ismael-Sallami/TDA-Imagen/blob/main/ej05_eficiencia/barajar_puntos_1_5.cpp#L1) &mdash; complete file.
+[`image-adt/src/efficiency-study/barajar_puntos_1_5.cpp`](https://github.com/Ismael-Sallami/image-adt/blob/main/src/efficiency-study/barajar_puntos_1_5.cpp#L12-L69) &mdash; complete file.

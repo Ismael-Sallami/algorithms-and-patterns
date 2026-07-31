@@ -14,4 +14,4 @@ Practice 3: trends module.
 
 ## Source
 
-[`DDSI/LaTeX/pr3/src/tendencias/functions.py`](https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/src/tendencias/functions.py#L1) &mdash; complete file.
+[`oracle-dbms-project/src/tendencias/functions.py`](https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/src/tendencias/functions.py#L2-L72) &mdash; complete file.

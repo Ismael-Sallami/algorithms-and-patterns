@@ -14,4 +14,4 @@ Importing broker statements.
 
 ## Source
 
-[`personal-finance-manager/app/services/parsers/myinvestor.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/myinvestor.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/parsers/myinvestor.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/myinvestor.py#L1-L70) &mdash; complete file.

@@ -14,7 +14,7 @@ Final project: sequence-to-sequence model.
 
 ## Source
 
-[`AA-practices/project/Proyecto_Sallami_Rodriguez.ipynb`](https://github.com/Ismael-Sallami/AA-practices/blob/main/project/Proyecto_Sallami_Rodriguez.ipynb) &mdash; notebook cells defining `decode_sequence`.
+[`machine-learning-practices/src/project-seq2seq-chatbot.ipynb`](https://github.com/Ismael-Sallami/machine-learning-practices/blob/main/src/project-seq2seq-chatbot.ipynb#L1) &mdash; notebook cells defining `decode_sequence`.
 
 ## Note
 

@@ -14,4 +14,4 @@ Authentication for the finance service.
 
 ## Source
 
-[`personal-finance-manager/app/security.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/security.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/security.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/security.py#L1-L76) &mdash; complete file.

@@ -14,4 +14,4 @@ Monthly investment contributions.
 
 ## Source
 
-[`personal-finance-manager/app/services/contributions.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/contributions.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/contributions.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/contributions.py#L1-L73) &mdash; complete file.

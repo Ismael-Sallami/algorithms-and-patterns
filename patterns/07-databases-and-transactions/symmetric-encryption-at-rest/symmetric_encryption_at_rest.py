@@ -1,7 +1,7 @@
 # Pattern: Symmetric encryption of stored message bodies
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/DDSI -> LaTeX/pr3/src/mensajeria/cifrado.py (complete file)
-#          https://github.com/Ismael-Sallami/DDSI/blob/main/LaTeX/pr3/src/mensajeria/cifrado.py#L1
+# Source:  Ismael-Sallami/oracle-dbms-project -> src/mensajeria/cifrado.py (complete file)
+#          https://github.com/Ismael-Sallami/oracle-dbms-project/blob/main/src/mensajeria/cifrado.py#L1-L14
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

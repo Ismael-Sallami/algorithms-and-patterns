@@ -14,4 +14,4 @@ The portfolio return figures.
 
 ## Source
 
-[`personal-finance-manager/app/services/pnl.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/pnl.py#L1) &mdash; complete file.
+[`personal-finance-manager/app/services/pnl.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/pnl.py#L1-L43) &mdash; complete file.

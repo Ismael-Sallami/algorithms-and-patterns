@@ -14,4 +14,4 @@ Enabled when the agent is configured for deeper search under the same time limit
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L1139) &mdash; lines 1139-1207.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L1139-L1207) &mdash; lines 1139-1207.

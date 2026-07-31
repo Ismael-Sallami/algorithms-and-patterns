@@ -1,7 +1,7 @@
 // Pattern: Gaussian mutation with boundary handling
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/src/gaussian_mutation.cpp (complete file)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/gaussian_mutation.cpp#L1
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-2/src/gaussian_mutation.cpp (complete file)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-2/src/gaussian_mutation.cpp#L7-L87
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

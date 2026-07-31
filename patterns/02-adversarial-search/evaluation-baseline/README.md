@@ -14,4 +14,4 @@ Reference opponent for every later evaluation in this category.
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L342) &mdash; lines 342-398.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L342-L398) &mdash; lines 342-398.

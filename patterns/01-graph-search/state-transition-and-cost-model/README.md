@@ -14,4 +14,4 @@ Shared by every planner in the rescuer agent.
 
 ## Source
 
-[`Practica2_IA/practica2/rescatador.cpp`](https://github.com/Ismael-Sallami/Practica2_IA/blob/main/practica2/rescatador.cpp#L1164) &mdash; lines 1164-1220, 1347-1402, 1404-1442.
+[`rescue-agents/src/rescatador.cpp`](https://github.com/Ismael-Sallami/rescue-agents/blob/main/src/rescatador.cpp#L1164) &mdash; lines 1164-1220, 1347-1402, 1404-1442.

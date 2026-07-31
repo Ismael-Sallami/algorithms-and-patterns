@@ -14,4 +14,4 @@ Applied at the leaves of the main search to stop the agent from walking into an 
 
 ## Source
 
-[`Parcherckers/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/Parcherckers/blob/main/src/AIPlayer.cpp#L1025) &mdash; lines 1025-1107.
+[`parchis-ai/src/AIPlayer.cpp`](https://github.com/Ismael-Sallami/parchis-ai/blob/main/src/AIPlayer.cpp#L1025-L1107) &mdash; lines 1025-1107.

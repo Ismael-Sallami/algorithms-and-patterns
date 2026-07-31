@@ -14,4 +14,4 @@ Practice 3, contrasted against the signal-and-continue version in the same direc
 
 ## Source
 
-[`SCD-Concurrency-MPI/src/Practica3/scd-p3-fuentes/prodcons2-mu.cpp`](https://github.com/Ismael-Sallami/SCD-Concurrency-MPI/blob/main/src/Practica3/scd-p3-fuentes/prodcons2-mu.cpp#L1) &mdash; complete file.
+[`concurrency-mpi/src/practice-3-mpi/producer-consumer-multi.cpp`](https://github.com/Ismael-Sallami/concurrency-mpi/blob/main/src/practice-3-mpi/producer-consumer-multi.cpp#L22-L207) &mdash; complete file.

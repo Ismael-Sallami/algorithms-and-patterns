@@ -1,7 +1,7 @@
 // Pattern: Local search, first improvement
 // Author:  Ismael Sallami Moreno
-// Source:  Ismael-Sallami/MH-Practices -> practice-3/code/src/localsearch.cpp (complete file)
-//          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/code/src/localsearch.cpp#L1
+// Source:  Ismael-Sallami/metaheuristics -> src/practice-3/src/localsearch.cpp (complete file)
+//          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-3/src/localsearch.cpp#L7-L87
 // Extract: verbatim, complete file.
 //          Not a standalone build. See the source repository for the
 //          full build context.

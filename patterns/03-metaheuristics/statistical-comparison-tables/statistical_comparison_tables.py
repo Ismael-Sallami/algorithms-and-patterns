@@ -1,7 +1,7 @@
 # Pattern: Generating comparison tables across algorithms
 # Author:  Ismael Sallami Moreno
-# Source:  Ismael-Sallami/MH-Practices -> practice-3/EXTRA/generar_tablas_comparativas.py (complete file)
-#          https://github.com/Ismael-Sallami/MH-Practices/blob/main/practice-3/EXTRA/generar_tablas_comparativas.py#L1
+# Source:  Ismael-Sallami/metaheuristics -> src/practice-3/extra/generar_tablas_comparativas.py (complete file)
+#          https://github.com/Ismael-Sallami/metaheuristics/blob/main/src/practice-3/extra/generar_tablas_comparativas.py#L2-L168
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.
