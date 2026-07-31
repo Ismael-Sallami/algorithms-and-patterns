@@ -79,7 +79,7 @@ about them is their provenance, and every header carries it.
 | [Computer architecture](reference/15-computer-architecture/) | 9 |
 | [Systems primitives](reference/16-systems-primitives/) | 2 |
 
-**Total: 183 implementations** &mdash; 126 extracted, 57 written here.
+**Total: 198 implementations** &mdash; 141 extracted, 57 written here.
 
 Problems solved on NeetCode are tracked separately, in [`neetcode-submissions`](https://github.com/Ismael-Sallami/neetcode-submissions): 5 at the last count.
 

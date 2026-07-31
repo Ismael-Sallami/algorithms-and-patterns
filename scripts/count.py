@@ -43,6 +43,10 @@ PATTERNS = [
     [
     "08-application-architecture",
         "Application architecture"
+    ],
+    [
+    "09-algorithm-design-techniques",
+        "Algorithm design techniques"
     ]
 ]
 
