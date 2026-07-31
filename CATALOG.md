@@ -1,6 +1,6 @@
 # Catalogue
 
-183 implementations: 126 extracted from earlier work and 57 written for this repository.
+198 implementations: 141 extracted from earlier work and 57 written for this repository.
 
 ## Extracted from earlier work
 
@@ -187,6 +187,29 @@ Each row links to the folder and to the file it was sliced out of.
 | [Password hashing and session tokens](patterns/08-application-architecture/password-hashing-and-sessions/) | Python | [`Ismael-Sallami/personal-finance-manager/app/security.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/security.py) |
 | [Profit and loss over a position](patterns/08-application-architecture/profit-and-loss-computation/) | Python | [`Ismael-Sallami/personal-finance-manager/app/services/pnl.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/pnl.py) |
 | [Dispatching to a parser by strategy](patterns/08-application-architecture/strategy-dispatch/) | Python | [`Ismael-Sallami/personal-finance-manager/app/services/parsers/dispatch.py`](https://github.com/Ismael-Sallami/personal-finance-manager/blob/main/app/services/parsers/dispatch.py) |
+
+### Algorithm design techniques
+
+15 entries.
+
+| Entry | Language | Extracted from |
+| --- | --- | --- |
+| [Absolute majority by splitting the vote in halves](patterns/09-algorithm-design-techniques/absolute-majority-by-halves/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/01-divide-and-conquer/absolute-majority/absolute_majority_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/absolute-majority/absolute_majority_divide.cpp#L18) |
+| [Matching nuts to bolts without comparing two of a kind](patterns/09-algorithm-design-techniques/nuts-and-bolts-partition/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/01-divide-and-conquer/nuts-and-bolts/nuts_and_bolts_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/nuts-and-bolts/nuts_and_bolts_divide.cpp#L22) |
+| [Removing duplicates as a side effect of the merge](patterns/09-algorithm-design-techniques/duplicate-removal-by-merge/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/01-divide-and-conquer/remove-duplicates/remove_duplicates_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/remove-duplicates/remove_duplicates_divide.cpp#L10) |
+| [Round-robin calendar built by doubling a half-sized one](patterns/09-algorithm-design-techniques/round-robin-calendar-by-doubling/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/01-divide-and-conquer/tournament-calendar/tournament_calendar_divide.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/01-divide-and-conquer/tournament-calendar/tournament_calendar_divide.cpp#L37) |
+| [Greedy refuelling: always the furthest station still reachable](patterns/09-algorithm-design-techniques/furthest-reachable-refuelling-stop/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/02-greedy/bus_refuelling.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/bus_refuelling.cpp#L26) |
+| [Dijkstra over an adjacency matrix of sensor links](patterns/09-algorithm-design-techniques/dijkstra-over-an-adjacency-matrix/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/02-greedy/sensor_network.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/sensor_network.cpp#L90) |
+| [Kruskal with union-find over the streets of a village](patterns/09-algorithm-design-techniques/kruskal-minimum-spanning-tree/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/02-greedy/street_paving.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/street_paving.cpp#L84) |
+| [Greedy maximum-weight pairing, and where it settles too early](patterns/09-algorithm-design-techniques/greedy-maximum-weight-pairing/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/02-greedy/student_pairing.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/02-greedy/student_pairing.cpp#L17) |
+| [The same pairing by backtracking, which finds what greedy misses](patterns/09-algorithm-design-techniques/backtracking-maximum-weight-pairing/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/03-backtracking-and-branch-and-bound/student_pairing.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/student_pairing.cpp#L34) |
+| [Seating a circular table by backtracking](patterns/09-algorithm-design-techniques/circular-seating-backtracking/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/03-backtracking-and-branch-and-bound/circular_table.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/circular_table.cpp#L22) |
+| [Peg solitaire on a 33-square board](patterns/09-algorithm-design-techniques/peg-solitaire-backtracking/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/03-backtracking-and-branch-and-bound/senku.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/senku.cpp#L23) |
+| [Shortest way out of a maze with a bound on the path](patterns/09-algorithm-design-techniques/maze-shortest-path-branch-and-bound/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/03-backtracking-and-branch-and-bound/maze_branch_and_bound.cpp#L61) |
+| [Floyd with a predecessor matrix, so the route can be read back](patterns/09-algorithm-design-techniques/floyd-all-pairs-with-predecessors/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/04-dynamic-programming/flight_times.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/flight_times.cpp#L8) |
+| [Most gold collectable crossing a grid, and the path that does it](patterns/09-algorithm-design-techniques/grid-path-maximisation-with-traceback/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/04-dynamic-programming/gold_grid.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/gold_grid.cpp#L20) |
+| [Cheapest descent of a mountain, filled bottom-up](patterns/09-algorithm-design-techniques/minimum-cost-descent/) | C++ | [`Ismael-Sallami/algorithm-design-techniques/src/04-dynamic-programming/mountain_descent.cpp`](https://github.com/Ismael-Sallami/algorithm-design-techniques/blob/main/src/04-dynamic-programming/mountain_descent.cpp#L11) |
+
 
 ## Written for this repository
 
