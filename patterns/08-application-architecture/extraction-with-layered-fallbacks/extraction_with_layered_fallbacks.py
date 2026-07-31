@@ -1,7 +1,7 @@
 # Pattern: Extracting text from PDF with layered fallbacks
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/pdf-to-md -> pdf_to_md.py (complete file)
-#          https://github.com/Ismael-Sallami/pdf-to-md/blob/main/pdf_to_md.py#L1
+#          https://github.com/Ismael-Sallami/pdf-to-md/blob/main/src/pdf_to_md.py#L1
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.

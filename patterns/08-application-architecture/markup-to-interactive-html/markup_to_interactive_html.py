@@ -1,7 +1,7 @@
 # Pattern: Transforming a markup document into interactive HTML
 # Author:  Ismael Sallami Moreno
 # Source:  Ismael-Sallami/md2html-testGenerator -> md2html.py (complete file)
-#          https://github.com/Ismael-Sallami/md2html-testGenerator/blob/main/md2html.py#L1
+#          https://github.com/Ismael-Sallami/md2html-testGenerator/blob/main/src/md2html/core.py#L1
 # Extract: verbatim, complete file.
 #          Not a standalone build. See the source repository for the
 #          full build context.
